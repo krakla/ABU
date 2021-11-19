@@ -125,43 +125,6 @@ section .title::after{
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
-
-/* menu btn styling */
-.menu-btn{
-    color: #fff;
-    font-size: 23px;
-    cursor: pointer;
-    display: none;
-}
-.scroll-up-btn{
-    position: fixed;
-    height: 45px;
-    width: 42px;
-    background: crimson;
-    right: 30px;
-    bottom: 10px;
-    text-align: center;
-    line-height: 45px;
-    color: #fff;
-    z-index: 9999;
-    font-size: 30px;
-    border-radius: 6px;
-    border-bottom-width: 2px;
-    cursor: pointer;
-    opacity: 0;
-    pointer-events: none;
-    transition: all 0.3s ease;
-}
-.scroll-up-btn.show{
-    bottom: 30px;
-    opacity: 1;
-    pointer-events: auto;
-}
-.scroll-up-btn:hover{
-    filter: brightness(90%);
-}
-
-
 /* home section styling */
 .home{
     display: flex;
@@ -212,6 +175,43 @@ section .title::after{
     color: crimson;
     background: none;
 }
+/* menu btn styling */
+.menu-btn{
+    color: #fff;
+    font-size: 23px;
+    cursor: pointer;
+    display: none;
+}
+.scroll-up-btn{
+    position: fixed;
+    height: 45px;
+    width: 42px;
+    background: crimson;
+    right: 30px;
+    bottom: 10px;
+    text-align: center;
+    line-height: 45px;
+    color: #fff;
+    z-index: 9999;
+    font-size: 30px;
+    border-radius: 6px;
+    border-bottom-width: 2px;
+    cursor: pointer;
+    opacity: 0;
+    pointer-events: none;
+    transition: all 0.3s ease;
+}
+.scroll-up-btn.show{
+    bottom: 30px;
+    opacity: 1;
+    pointer-events: auto;
+}
+.scroll-up-btn:hover{
+    filter: brightness(90%);
+}
+
+
+
 
 /* contact section styling */
 .contact .title::after{
@@ -277,14 +277,15 @@ section .title::after{
     font-family: 'Poppins', sans-serif;
     transition: all 0.3s ease;
 }
+.contact .right form .textarea textarea{
+    padding-top: 10px;
+    resize: none;
+  }
 .contact .right form .field input:focus,
 .contact .right form .textarea textarea:focus{
     border-color: #b3b3b3;
 }
-.contact .right form .textarea textarea{
-  padding-top: 10px;
-  resize: none;
-}
+
 .contact .right form .button-area{
   display: flex;
   align-items: center;
