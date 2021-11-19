@@ -11,7 +11,8 @@ I created an appealing, responsive, and easy-to-navigate homepage based on
 
 The navigation bar, logo, and body aren't cluttered. I didn't think the 
 webpage needed a lot of pictures because the stakeholder wants to convey 
-what she knows, her skills, and how she wants to build her network. I went with a simple design.
+what she knows, her skills, and how she wants to build her network. 
+I went with a simple design.
 
 <!-- give an overview of your project's design -->
 <!-- describe the reasoning behind your group's design and wireframe -->
