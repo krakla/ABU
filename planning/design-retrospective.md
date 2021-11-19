@@ -20,9 +20,11 @@
 
 ## Lessons Learned
 
-- Prepare an agenda for any meeting ahead of time so that everyone knows what will be discussed.
+- Prepare an agenda for any meeting ahead of time so that everyone knows what
+ will be discussed.
 - Friday Resolve disputes as you merge PRs one by one.
-- Send a test PR and ask the repo owner to merge it so you don't have to ask for run workflow approval when sending another PR.
+- Send a test PR and ask the repo owner to merge it so you don't have to ask
+ for run workflow approval when sending another PR.
 - When writing a PR, attempt to connect it to the issue.
 
 ## make a good communication plan

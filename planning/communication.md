@@ -31,8 +31,10 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day       |    Monday    |   Tuesday    |  Wednesday   |   Thursday   |    Friday    | Saturday | Sunday |
-| --------- | :----------: | :----------: | :----------: | :----------: | :----------: | :------: | :----: |
+| Day       |    Monday    |   Tuesday    |  Wednesday   |   Thursday   |
+    Friday    | Saturday | Sunday |
+| --------- | :----------: | :----------: | :----------: | :----------: |
+ :----------: | :------: | :----: |
 | _ABU_   | 19-20 | 19-20 | 19-20 | 19-20 | 19-20 | 19-20 | 19-20 | 
 | _SARA_  | 16-18 | 16-18 | 16-18 | 16-18 | 16-18 | 16-18 | 16-18 |
 

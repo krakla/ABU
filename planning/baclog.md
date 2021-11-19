@@ -12,14 +12,17 @@ As a novice user, I can navigate easily the home page.
 - [x] _there is a logo on top of the page_
 - [x] _there is a paragraph explaining the purpose on the page_
 
-As a web-development student, I may locate a variety of contacts on the home page, as well as a prospective digital entrepreneur. Consequently:
+As a web-development student, I may locate a variety of contacts on the home
+ page, as well as a prospective digital entrepreneur. Consequently:
 
 - I'll be able to work on open source projects with other students.
 - I'll be able to contact coaches and experts for assistance.
-- I'll be able to follow them on social media; - I'll be able to find relevant materials to help me improve my coding abilities.
+- I'll be able to follow them on social media; - I'll be able to find relevant
+ materials to help me improve my coding abilities.
 - I discovered addresses for free online coding platforms.
 
-As a web-development coach (mentor), I can see what a web-development student has learned so far. Consequently:
+As a web-development coach (mentor), I can see what a web-development student
+ has learned so far. Consequently:
 
 - I am capable of guiding and assisting the student.
 - I am able to communicate with the student.
